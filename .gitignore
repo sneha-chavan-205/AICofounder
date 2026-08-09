@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+# Virtual environments
+venv/
+.venv/
+# Environment variables / API keys
+.env
+*.env
+# Generated vector database
+backend/storage/
+# Uploaded documents
+backend/uploads/
+# IDE
+.vscode/
+.idea/
+# OS files
+.DS_Store
+Thumbs.db
+# Testing/cache
+.pytest_cache/
+# Logs
+*.log
